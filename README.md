@@ -41,6 +41,9 @@ I am a software developer with expertise in the following technologies:
 <!-- You can showcase your GitHub activity using GitHub Stats or other widgets -->
 ![Arslan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arslan&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
 
+## Code in Action
+![Code in Action](https://github.com/evilgenius786/evilgenius786/blob/main/code.gif)
+
 ## Connect with Me
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
