@@ -12,15 +12,6 @@ I am a software developer with expertise in the following technologies:
 - Python
 - CSS
 
-[Write a brief introduction about yourself, your skills, and your interests.]
-
-
-## GitHub Activity
-
-<!-- You can showcase your GitHub activity using GitHub Stats or other widgets -->
-![Arslan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arslan&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
-
-## Code in Action
 ![Code in Action](https://github.com/evilgenius786/evilgenius786/blob/main/code.gif)
 
 ## Connect with Me
