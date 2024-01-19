@@ -14,27 +14,6 @@ I am a software developer with expertise in the following technologies:
 
 [Write a brief introduction about yourself, your skills, and your interests.]
 
-## Tech Stack
-
-### React.js
-
-[Include information about your React.js projects, libraries, or contributions.]
-
-### HTML
-
-[Include information about your HTML projects or contributions.]
-
-### JavaScript
-
-[Include information about your JavaScript projects, frameworks, or contributions.]
-
-### Python
-
-[Include information about your Python projects, libraries, or contributions.]
-
-### CSS
-
-[Include information about your CSS projects or contributions.]
 
 ## GitHub Activity
 
