@@ -20,6 +20,6 @@ I am a software developer with expertise in the following technologies:
 - Whatsapp: +1 3475197671
 - Email: khurshidarsal@gmail.com
 
-- ![Tamours's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azlan200&show_icons=true&theme=radical)
+
 
 Feel free to explore my repositories and connect with me. 😊
