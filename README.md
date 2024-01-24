@@ -1,9 +1,6 @@
 
 
-Welcome to my GitHub profile. I'm passionate about web development and programming in various technologies.
-
-## About Me
-
+Welcome
 I am a software developer with expertise in the following technologies:
 
 - React.js
